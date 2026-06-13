@@ -61,7 +61,7 @@ Organizations often struggle with slow processes, high costs, frequent errors, a
 
 ## 📸 Dashboard Screenshots
 ![Dashboard Overview](Screenshots/dashboard_overview.png)
-![Insights Page](Screenshots/insights_page.png)
+![Insights Page](https://github.com/Naziya-shamim/Business-Process-Optimization-Dashboard/blob/main/Business%20process%20optimization%20anlysis/Screenshots/insight_page.png)
 
 ## 📁 Files in Repository
 - `Dataset/business_process_optimization_dataset_150_rows.csv`
