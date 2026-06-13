@@ -1,0 +1,151 @@
+Process ID,Process Name,Department,Process Owner,Start Date,End Date,Cycle Time (Hours),Standard Cycle Time,Employee Assigned,Task Volume,Tasks Completed,Productivity %,Error Count,Rework Count,Process Cost,Customer Complaints,SLA Target,SLA Achieved,Process Status,Improvement Opportunity
+P001,Invoice Approval,Sales,Anjali,06-05-2025,10-05-2025,96,8,Employee4,396,292,73.74,2,9,11044,4,93,99,Pending,Automate data entry
+P002,Order Processing,HR,Priya,29-11-2025,08-12-2025,216,17,Employee8,279,224,80.29,8,0,30079,6,94,74,Delayed,Optimize approval flow
+P003,Customer Onboarding,Operations,Mary,17-02-2025,24-02-2025,168,7,Employee12,483,258,53.42,11,9,28055,8,96,72,Delayed,Reduce rework
+P004,Vendor Approval,Operations,Pooja,05-07-2025,15-07-2025,240,10,Employee3,73,58,79.45,7,4,24394,7,94,84,Delayed,Process performing well
+P005,Report Generation,Finance,Karan,01-07-2025,05-07-2025,96,12,Employee3,361,266,73.68,5,8,19041,7,94,91,Pending,Automate data entry
+P006,Report Generation,Sales,Priya,17-01-2025,23-01-2025,144,16,Employee9,83,60,72.29,6,9,22943,8,96,90,Delayed,Automate data entry
+P007,Quality Check,Finance,Anjali,13-03-2025,17-03-2025,96,21,Employee18,184,94,51.09,13,9,20225,13,91,71,Delayed,Reduce rework
+P008,Invoice Approval,Finance,David,15-12-2025,22-12-2025,168,23,Employee3,247,154,62.35,12,9,32145,8,91,87,Active,Reduce rework
+P009,Report Generation,Sales,Anjali,11-08-2025,14-08-2025,72,18,Employee1,419,286,68.26,8,8,20253,7,98,89,Delayed,Automate data entry
+P010,Customer Onboarding,Finance,Karan,24-03-2025,02-04-2025,216,20,Employee1,356,195,54.78,10,7,33271,9,90,77,Delayed,Reduce rework
+P011,Payroll Processing,Sales,Mary,06-09-2025,08-09-2025,48,21,Employee5,115,52,45.22,15,8,24537,12,98,76,Delayed,Reduce rework
+P012,Payment Processing,IT,Karan,13-08-2025,22-08-2025,216,18,Employee4,176,131,74.43,7,1,40358,6,99,77,Delayed,Automate data entry
+P013,Order Processing,Sales,John,28-04-2025,30-04-2025,48,5,Employee11,86,64,74.42,7,4,14922,6,99,98,Active,Automate data entry
+P014,Customer Onboarding,IT,Sneha,08-04-2025,10-04-2025,48,7,Employee14,231,131,56.71,13,6,23933,9,90,82,Delayed,Reduce rework
+P015,Report Generation,Sales,Priya,09-04-2025,13-04-2025,96,21,Employee15,121,72,59.5,13,2,17856,12,98,73,Delayed,Reduce rework
+P016,Order Processing,Customer Service,Rahul,08-01-2025,10-01-2025,48,11,Employee6,258,123,47.67,15,7,19906,12,96,70,Delayed,Reduce rework
+P017,Data Entry,Operations,Vikram,27-05-2025,03-06-2025,168,21,Employee16,129,90,69.77,6,4,26150,5,95,71,Delayed,Automate data entry
+P018,Order Processing,HR,Vikram,15-09-2025,24-09-2025,216,9,Employee2,310,244,78.71,2,2,20993,5,91,88,Pending,Process performing well
+P019,Payroll Processing,HR,John,14-11-2025,16-11-2025,48,17,Employee19,339,210,61.95,10,4,23254,8,94,82,Delayed,Reduce rework
+P020,Inventory Check,Customer Service,Anjali,23-08-2025,29-08-2025,144,6,Employee1,284,243,85.56,3,1,23040,3,95,72,Delayed,Process performing well
+P021,Customer Onboarding,Operations,Anjali,22-03-2025,30-03-2025,192,21,Employee10,363,298,82.09,0,10,21001,3,94,73,Delayed,Process performing well
+P022,Invoice Approval,Customer Service,Rahul,21-03-2025,26-03-2025,120,13,Employee20,157,111,70.7,10,3,30834,9,94,85,Completed,Reduce rework
+P023,Data Entry,Operations,John,02-01-2025,08-01-2025,144,8,Employee9,132,73,55.3,14,8,26933,9,91,74,Delayed,Reduce rework
+P024,Vendor Approval,Sales,Karan,26-10-2025,04-11-2025,216,8,Employee14,115,94,81.74,1,4,27623,4,93,77,Delayed,Process performing well
+P025,Invoice Approval,Operations,Rahul,28-07-2025,07-08-2025,240,8,Employee8,492,419,85.16,5,2,21786,4,96,77,Delayed,Process performing well
+P026,Payment Processing,Finance,Mary,15-07-2025,16-07-2025,24,19,Employee8,152,82,53.95,14,5,24426,10,90,76,Delayed,Reduce rework
+P027,Data Entry,Operations,Anjali,05-02-2025,10-02-2025,120,15,Employee17,254,169,66.54,10,0,18919,9,90,73,Delayed,Reduce rework
+P028,Payroll Processing,IT,Karan,10-06-2025,17-06-2025,168,23,Employee17,109,54,49.54,12,9,28067,10,98,87,Delayed,Reduce rework
+P029,Customer Onboarding,Operations,Sneha,05-02-2025,11-02-2025,144,23,Employee11,389,313,80.46,3,4,29314,5,96,79,Delayed,Process performing well
+P030,Vendor Approval,Finance,Priya,04-08-2025,11-08-2025,168,9,Employee20,341,225,65.98,9,6,22090,9,93,83,Delayed,Automate data entry
+P031,Payroll Processing,HR,Karan,27-08-2025,04-09-2025,192,18,Employee7,311,192,61.74,15,2,35829,11,91,77,Delayed,Reduce rework
+P032,Payment Processing,Finance,Priya,17-03-2025,18-03-2025,24,5,Employee8,293,224,76.45,2,7,16194,5,97,93,Completed,Process performing well
+P033,Inventory Check,Customer Service,John,24-02-2025,03-03-2025,168,11,Employee6,461,301,65.29,14,0,32819,11,92,84,Delayed,Reduce rework
+P034,Vendor Approval,HR,Pooja,12-06-2025,20-06-2025,192,23,Employee17,268,174,64.93,14,2,36921,10,93,90,Active,Reduce rework
+P035,Vendor Approval,IT,Priya,21-05-2025,29-05-2025,192,6,Employee10,170,112,65.88,8,5,26869,7,92,77,Delayed,Automate data entry
+P036,Data Entry,Customer Service,David,28-12-2025,01-01-2026,96,6,Employee14,258,154,59.69,10,8,16716,11,96,88,Delayed,Reduce rework
+P037,Order Processing,HR,Sneha,02-09-2025,03-09-2025,24,15,Employee10,435,261,60,12,6,23692,10,97,77,Delayed,Reduce rework
+P038,Payment Processing,IT,Vikram,15-01-2025,22-01-2025,168,14,Employee13,420,328,78.1,5,7,35619,3,96,88,Delayed,Optimize approval flow
+P039,Payroll Processing,Customer Service,John,12-02-2025,19-02-2025,168,8,Employee15,143,118,82.52,1,4,24311,4,95,82,Delayed,Process performing well
+P040,Payment Processing,IT,Anjali,11-02-2025,19-02-2025,192,4,Employee18,76,51,67.11,11,3,30759,7,93,76,Delayed,Reduce rework
+P041,Order Processing,HR,David,03-05-2025,06-05-2025,72,19,Employee4,338,246,72.78,6,7,25648,6,99,98,Pending,Automate data entry
+P042,Invoice Approval,Finance,Anjali,25-02-2025,07-03-2025,240,4,Employee10,344,227,65.99,12,6,26209,9,91,79,Delayed,Reduce rework
+P043,Payroll Processing,Sales,Pooja,22-01-2025,28-01-2025,144,21,Employee14,388,268,69.07,11,1,19734,9,97,73,Delayed,Reduce rework
+P044,Data Entry,Operations,Vikram,29-12-2025,01-01-2026,72,17,Employee6,425,287,67.53,8,9,24509,9,96,88,Delayed,Automate data entry
+P045,Payment Processing,Operations,Priya,14-02-2025,19-02-2025,120,18,Employee8,434,228,52.53,14,9,28069,9,97,80,Delayed,Reduce rework
+P046,Inventory Check,IT,Priya,01-07-2025,06-07-2025,120,14,Employee9,500,285,57,8,8,17730,8,96,85,Delayed,Automate data entry
+P047,Vendor Approval,Finance,Vikram,27-11-2025,05-12-2025,192,18,Employee1,97,66,68.04,9,3,27474,8,97,87,Delayed,Automate data entry
+P048,Vendor Approval,Operations,Sneha,09-10-2025,15-10-2025,144,15,Employee15,188,121,64.36,9,4,29173,9,91,87,Pending,Automate data entry
+P049,Customer Onboarding,Finance,Vikram,22-05-2025,01-06-2025,240,20,Employee20,194,153,78.87,3,3,26592,5,90,87,Pending,Process performing well
+P050,Payment Processing,Sales,John,11-10-2025,16-10-2025,120,8,Employee16,102,77,75.49,0,9,24263,5,92,83,Active,Process performing well
+P051,Quality Check,Sales,Mary,25-07-2025,02-08-2025,192,6,Employee19,372,305,81.99,1,2,28217,2,93,73,Delayed,Process performing well
+P052,Vendor Approval,IT,Pooja,02-11-2025,12-11-2025,240,11,Employee17,244,124,50.82,14,7,44702,12,99,89,Delayed,Reduce rework
+P053,Order Processing,HR,Mary,17-04-2025,21-04-2025,96,12,Employee3,130,99,76.15,7,2,12464,7,97,98,Pending,Process performing well
+P054,Quality Check,Operations,John,29-04-2025,04-05-2025,120,13,Employee15,86,66,76.74,7,4,24940,7,91,98,Completed,Process performing well
+P055,Inventory Check,Operations,David,06-02-2025,07-02-2025,24,9,Employee10,354,206,58.19,9,7,20995,11,94,86,Delayed,Automate data entry
+P056,Vendor Approval,IT,Vikram,11-02-2025,21-02-2025,240,5,Employee14,426,235,55.16,10,9,29156,8,94,88,Delayed,Reduce rework
+P057,Order Processing,Finance,Vikram,23-09-2025,01-10-2025,192,12,Employee6,349,196,56.16,13,10,33114,11,96,80,Delayed,Reduce rework
+P058,Report Generation,Customer Service,Mary,24-03-2025,30-03-2025,144,17,Employee16,197,97,49.24,12,8,23802,12,95,73,Delayed,Reduce rework
+P059,Data Entry,HR,John,03-12-2025,12-12-2025,216,18,Employee14,77,51,66.23,6,8,43201,9,90,76,Delayed,Automate data entry
+P060,Payment Processing,HR,David,28-05-2025,05-06-2025,192,19,Employee4,64,46,71.88,7,2,28364,8,91,77,Delayed,Automate data entry
+P061,Invoice Approval,IT,Mary,28-11-2025,01-12-2025,72,19,Employee10,310,224,72.26,8,6,20368,8,98,90,Active,Automate data entry
+P062,Customer Onboarding,HR,Rahul,11-03-2025,13-03-2025,48,12,Employee14,224,164,73.21,8,0,15267,6,97,95,Active,Automate data entry
+P063,Report Generation,Operations,Rahul,06-10-2025,13-10-2025,168,18,Employee11,495,381,76.97,6,3,25862,4,95,85,Delayed,Process performing well
+P064,Data Entry,IT,David,11-09-2025,12-09-2025,24,8,Employee17,352,269,76.42,10,1,15001,8,90,84,Active,Reduce rework
+P065,Inventory Check,Sales,Vikram,16-05-2025,22-05-2025,144,23,Employee13,382,329,86.13,2,5,26354,3,97,87,Delayed,Process performing well
+P066,Order Processing,HR,Mary,01-05-2025,06-05-2025,120,11,Employee3,272,202,74.26,3,10,19866,5,94,84,Completed,Automate data entry
+P067,Report Generation,Sales,Anjali,03-07-2025,09-07-2025,144,17,Employee5,175,97,55.43,13,9,23374,10,91,89,Active,Reduce rework
+P068,Payroll Processing,Customer Service,Priya,12-09-2025,22-09-2025,240,8,Employee8,286,178,62.24,8,7,33413,8,98,75,Delayed,Automate data entry
+P069,Invoice Approval,IT,Karan,28-10-2025,02-11-2025,120,24,Employee14,403,286,70.97,8,7,22243,8,91,88,Active,Automate data entry
+P070,Payroll Processing,Operations,Pooja,01-06-2025,06-06-2025,120,4,Employee13,190,160,84.21,0,9,23171,4,94,91,Pending,Process performing well
+P071,Report Generation,Finance,Priya,14-11-2025,19-11-2025,120,8,Employee4,371,329,88.68,1,4,14766,2,91,90,Active,Process performing well
+P072,Data Entry,Finance,Priya,09-03-2025,18-03-2025,216,15,Employee17,306,213,69.61,8,2,43087,7,95,73,Delayed,Automate data entry
+P073,Quality Check,Sales,David,26-04-2025,03-05-2025,168,21,Employee12,96,62,64.58,12,0,27168,10,94,88,Delayed,Reduce rework
+P074,Data Entry,Customer Service,Karan,25-02-2025,01-03-2025,96,19,Employee1,367,201,54.77,10,9,20199,10,96,73,Delayed,Reduce rework
+P075,Inventory Check,Sales,John,05-06-2025,13-06-2025,192,7,Employee4,170,127,74.71,4,6,38633,7,99,74,Delayed,Automate data entry
+P076,Data Entry,Customer Service,Mary,08-09-2025,18-09-2025,240,17,Employee9,66,42,63.64,11,3,34308,7,95,87,Delayed,Reduce rework
+P077,Report Generation,Sales,Sneha,22-05-2025,26-05-2025,96,7,Employee15,96,64,66.67,6,10,12725,8,93,74,Delayed,Automate data entry
+P078,Payroll Processing,Finance,Mary,11-10-2025,15-10-2025,96,22,Employee7,466,350,75.11,7,5,23721,7,92,86,Pending,Process performing well
+P079,Payment Processing,Finance,Mary,05-12-2025,06-12-2025,24,8,Employee1,233,145,62.23,7,9,12046,6,92,83,Delayed,Automate data entry
+P080,Vendor Approval,Sales,Mary,01-09-2025,09-09-2025,192,15,Employee17,353,268,75.92,3,7,25237,6,97,90,Delayed,Process performing well
+P081,Order Processing,Sales,Vikram,25-07-2025,01-08-2025,168,7,Employee16,414,285,68.84,14,1,25001,7,92,78,Delayed,Reduce rework
+P082,Payroll Processing,Customer Service,Pooja,08-10-2025,14-10-2025,144,16,Employee20,321,205,63.86,9,7,23576,7,98,76,Delayed,Automate data entry
+P083,Data Entry,IT,Priya,31-07-2025,06-08-2025,144,18,Employee13,262,204,77.86,3,5,26705,5,92,85,Delayed,Process performing well
+P084,Invoice Approval,Sales,Mary,17-02-2025,24-02-2025,168,7,Employee12,465,306,65.81,4,8,30057,5,96,81,Delayed,Automate data entry
+P085,Data Entry,Customer Service,John,28-05-2025,07-06-2025,240,13,Employee12,103,82,79.61,6,2,23394,6,98,81,Delayed,Process performing well
+P086,Invoice Approval,Operations,Pooja,26-04-2025,03-05-2025,168,21,Employee20,364,310,85.16,0,9,31401,1,92,78,Delayed,Optimize approval flow
+P087,Payment Processing,Operations,Karan,04-01-2025,07-01-2025,72,8,Employee19,386,237,61.4,12,1,21489,8,98,76,Delayed,Reduce rework
+P088,Data Entry,IT,Vikram,24-06-2025,27-06-2025,72,15,Employee10,419,253,60.38,10,9,14529,8,99,71,Delayed,Reduce rework
+P089,Invoice Approval,Operations,Vikram,05-12-2025,12-12-2025,168,19,Employee20,276,155,56.16,13,4,27846,11,96,73,Delayed,Reduce rework
+P090,Payment Processing,Customer Service,Pooja,07-09-2025,16-09-2025,216,13,Employee2,162,78,48.15,12,9,32057,11,92,78,Delayed,Reduce rework
+P091,Payment Processing,Operations,Mary,04-01-2025,12-01-2025,192,17,Employee6,116,69,59.48,12,8,35836,9,96,71,Delayed,Reduce rework
+P092,Data Entry,Sales,Vikram,09-02-2025,15-02-2025,144,22,Employee14,343,179,52.19,12,10,26431,9,95,75,Delayed,Reduce rework
+P093,Payroll Processing,IT,Karan,15-02-2025,22-02-2025,168,7,Employee8,273,136,49.82,12,8,30107,11,95,75,Delayed,Reduce rework
+P094,Invoice Approval,HR,Mary,29-09-2025,08-10-2025,216,10,Employee12,229,169,73.8,4,3,24293,5,99,74,Delayed,Automate data entry
+P095,Invoice Approval,Finance,Vikram,26-08-2025,05-09-2025,240,22,Employee15,398,217,54.52,10,10,30125,11,97,90,Delayed,Reduce rework
+P096,Payment Processing,Operations,Pooja,29-01-2025,04-02-2025,144,20,Employee3,208,97,46.63,14,7,28525,10,91,89,Active,Reduce rework
+P097,Quality Check,HR,Rahul,22-01-2025,30-01-2025,192,22,Employee7,214,96,44.86,15,8,32457,11,95,72,Delayed,Reduce rework
+P098,Vendor Approval,Customer Service,David,21-01-2025,25-01-2025,96,18,Employee15,318,232,72.96,5,5,19138,7,95,86,Pending,Automate data entry
+P099,Report Generation,Sales,Karan,18-02-2025,27-02-2025,216,16,Employee10,179,126,70.39,4,5,30060,6,94,90,Active,Automate data entry
+P100,Inventory Check,HR,Mary,08-06-2025,17-06-2025,216,16,Employee11,466,338,72.53,4,10,43376,4,96,86,Delayed,Automate data entry
+P101,Report Generation,Sales,Karan,08-06-2025,11-06-2025,72,10,Employee11,442,238,53.85,15,3,16621,10,94,73,Delayed,Reduce rework
+P102,Vendor Approval,HR,Rahul,20-01-2025,26-01-2025,144,23,Employee5,355,214,60.28,12,2,31444,11,90,83,Delayed,Reduce rework
+P103,Report Generation,Customer Service,Priya,16-08-2025,26-08-2025,240,13,Employee15,169,134,79.29,7,4,44951,5,95,88,Delayed,Optimize approval flow
+P104,Quality Check,IT,Anjali,15-07-2025,24-07-2025,216,20,Employee14,132,81,61.36,6,9,22892,9,95,87,Delayed,Automate data entry
+P105,Invoice Approval,Customer Service,Rahul,05-03-2025,10-03-2025,120,6,Employee6,189,89,47.09,14,8,24887,11,97,81,Delayed,Reduce rework
+P106,Order Processing,IT,John,22-07-2025,31-07-2025,216,15,Employee8,247,189,76.52,2,5,22113,4,92,74,Delayed,Process performing well
+P107,Order Processing,Operations,Vikram,23-12-2025,26-12-2025,72,19,Employee15,365,305,83.56,0,1,9801,5,91,90,Completed,Process performing well
+P108,Payment Processing,Sales,John,03-05-2025,10-05-2025,168,24,Employee20,284,261,91.9,2,1,30313,1,98,88,Delayed,Optimize approval flow
+P109,Customer Onboarding,Customer Service,David,30-05-2025,06-06-2025,168,4,Employee20,230,146,63.48,7,9,28165,8,91,86,Pending,Automate data entry
+P110,Data Entry,IT,John,22-11-2025,29-11-2025,168,15,Employee9,432,385,89.12,0,5,21589,1,99,80,Delayed,Process performing well
+P111,Inventory Check,Sales,Karan,07-10-2025,13-10-2025,144,24,Employee6,475,265,55.79,14,7,33043,9,97,71,Delayed,Reduce rework
+P112,Payment Processing,Finance,John,13-04-2025,14-04-2025,24,14,Employee10,313,175,55.91,12,8,11775,11,95,71,Delayed,Reduce rework
+P113,Report Generation,Operations,Mary,08-07-2025,15-07-2025,168,16,Employee15,247,171,69.23,10,2,31047,8,91,83,Delayed,Reduce rework
+P114,Invoice Approval,IT,Pooja,03-04-2025,12-04-2025,216,13,Employee11,102,85,83.33,2,5,31633,5,92,84,Delayed,Optimize approval flow
+P115,Report Generation,IT,John,30-06-2025,10-07-2025,240,17,Employee9,377,345,91.51,1,1,31495,2,90,74,Delayed,Optimize approval flow
+P116,Payroll Processing,Customer Service,Vikram,18-01-2025,21-01-2025,72,6,Employee8,448,274,61.16,11,5,21181,8,97,81,Delayed,Reduce rework
+P117,Report Generation,IT,Mary,21-10-2025,24-10-2025,72,20,Employee12,253,137,54.15,10,10,14674,9,97,86,Delayed,Reduce rework
+P118,Data Entry,HR,Mary,15-05-2025,20-05-2025,120,18,Employee7,363,215,59.23,9,7,16903,11,92,84,Delayed,Automate data entry
+P119,Invoice Approval,Customer Service,Karan,08-12-2025,14-12-2025,144,6,Employee18,327,241,73.7,9,4,28730,8,98,77,Delayed,Automate data entry
+P120,Invoice Approval,Finance,David,02-05-2025,10-05-2025,192,4,Employee12,333,214,64.26,11,7,30310,7,91,79,Delayed,Reduce rework
+P121,Data Entry,Customer Service,Vikram,27-09-2025,04-10-2025,168,17,Employee19,87,68,78.16,4,5,30184,5,92,87,Pending,Optimize approval flow
+P122,Inventory Check,IT,Rahul,29-01-2025,31-01-2025,48,20,Employee5,205,157,76.59,5,2,19465,5,98,92,Completed,Process performing well
+P123,Payment Processing,Finance,Rahul,21-05-2025,24-05-2025,72,24,Employee10,364,286,78.57,2,8,19064,3,99,100,Pending,Process performing well
+P124,Report Generation,HR,John,15-01-2025,17-01-2025,48,5,Employee19,185,121,65.41,6,9,19713,9,98,79,Delayed,Automate data entry
+P125,Payment Processing,IT,Priya,17-12-2025,24-12-2025,168,13,Employee15,87,75,86.21,1,2,28345,2,95,89,Delayed,Process performing well
+P126,Inventory Check,Operations,Karan,26-06-2025,03-07-2025,168,8,Employee12,313,235,75.08,3,5,20119,7,93,74,Delayed,Process performing well
+P127,Invoice Approval,Sales,Anjali,16-07-2025,26-07-2025,240,17,Employee8,493,401,81.34,5,5,38414,4,92,85,Delayed,Optimize approval flow
+P128,Vendor Approval,IT,Vikram,07-06-2025,15-06-2025,192,4,Employee3,251,139,55.38,14,3,25433,9,94,85,Delayed,Reduce rework
+P129,Payroll Processing,Customer Service,Vikram,27-05-2025,05-06-2025,216,4,Employee4,270,221,81.85,4,4,38531,5,90,82,Delayed,Optimize approval flow
+P130,Order Processing,HR,Rahul,10-04-2025,16-04-2025,144,21,Employee10,87,48,55.17,12,8,30648,9,92,73,Delayed,Reduce rework
+P131,Data Entry,Operations,Karan,13-10-2025,19-10-2025,144,8,Employee7,358,177,49.44,12,8,19685,12,97,86,Delayed,Reduce rework
+P132,Quality Check,Finance,Pooja,21-09-2025,24-09-2025,72,14,Employee20,213,172,80.75,5,6,23749,5,98,96,Pending,Process performing well
+P133,Quality Check,Customer Service,Pooja,03-06-2025,11-06-2025,192,4,Employee12,219,172,78.54,3,6,27530,6,94,90,Pending,Process performing well
+P134,Order Processing,HR,Vikram,29-03-2025,07-04-2025,216,24,Employee20,446,313,70.18,12,2,23232,7,93,70,Delayed,Reduce rework
+P135,Quality Check,Operations,Sneha,19-03-2025,26-03-2025,168,10,Employee14,306,200,65.36,15,0,29766,11,97,86,Delayed,Reduce rework
+P136,Data Entry,Operations,David,24-08-2025,02-09-2025,216,14,Employee18,231,144,62.34,8,9,30098,8,93,79,Delayed,Automate data entry
+P137,Payment Processing,Customer Service,Priya,20-12-2025,28-12-2025,192,14,Employee16,228,147,64.47,8,4,40133,9,96,81,Delayed,Automate data entry
+P138,Inventory Check,Operations,John,28-05-2025,30-05-2025,48,15,Employee15,385,237,61.56,8,7,26329,8,98,78,Delayed,Automate data entry
+P139,Inventory Check,Sales,Pooja,28-10-2025,01-11-2025,96,11,Employee2,392,233,59.44,7,10,18933,9,97,73,Delayed,Automate data entry
+P140,Inventory Check,Sales,Rahul,22-03-2025,29-03-2025,168,24,Employee16,294,211,71.77,6,4,25358,5,99,77,Delayed,Automate data entry
+P141,Vendor Approval,Customer Service,John,31-03-2025,07-04-2025,168,9,Employee2,478,254,53.14,12,7,35987,9,90,79,Delayed,Reduce rework
+P142,Payroll Processing,HR,Mary,21-06-2025,26-06-2025,120,18,Employee18,318,205,64.47,15,2,26848,10,91,80,Delayed,Reduce rework
+P143,Inventory Check,Customer Service,Vikram,28-11-2025,03-12-2025,120,9,Employee1,427,288,67.45,10,4,28487,8,99,90,Delayed,Reduce rework
+P144,Data Entry,IT,Rahul,17-06-2025,19-06-2025,48,16,Employee4,144,102,70.83,4,7,11564,6,96,89,Active,Automate data entry
+P145,Payment Processing,Operations,Anjali,26-10-2025,05-11-2025,240,4,Employee9,384,228,59.38,11,3,35496,10,92,82,Delayed,Reduce rework
+P146,Vendor Approval,Customer Service,Anjali,20-12-2025,22-12-2025,48,24,Employee10,238,192,80.67,7,3,16546,7,99,94,Active,Process performing well
+P147,Vendor Approval,IT,Rahul,07-12-2025,11-12-2025,96,11,Employee20,497,376,75.65,2,8,25146,3,99,90,Completed,Process performing well
+P148,Vendor Approval,HR,Priya,21-10-2025,30-10-2025,216,8,Employee6,217,142,65.44,14,1,44237,8,98,84,Delayed,Reduce rework
+P149,Order Processing,IT,David,20-09-2025,27-09-2025,168,18,Employee19,79,42,53.16,14,10,31586,12,94,70,Delayed,Reduce rework
+P150,Customer Onboarding,HR,Mary,24-01-2025,31-01-2025,168,15,Employee3,327,314,96.02,1,1,18606,2,96,75,Delayed,Process performing well
